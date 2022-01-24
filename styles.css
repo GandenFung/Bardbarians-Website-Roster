@@ -92,5 +92,8 @@ background-color:silver;}
   animation-duration: 1.5s;
 }
 img{
-width:40%;
+height:60%;
+}
+h2{
+font-size:40px;
 }
